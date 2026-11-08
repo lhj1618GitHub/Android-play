@@ -33,6 +33,10 @@
 
 - [Canta](https://samolego.github.io/Canta/) - [Github](https://github.com/samolego/Canta) - 卸载当前用户系统应用，可还原，需shizuku
 
+- [NPatch](https://github.com/7723mod/NPatch) 免root用户的模块管理
+
+- [LSPosed](https://github.com/LSPosed/LSPosed) root用户的模块管理
+
 
 
 ---
