@@ -29,7 +29,9 @@
 ## 其它工具推荐
 - 爱玩机工具箱 - [版本1](https://aiwanjitool.cn/) - [版本2](https://doc.byyoung.top/)
 
-- [MT管理器](https://mt2.cn/) - 开发者的文件管理器，支持apk文件编辑/签名等众多专业功能。内部收费，免费建议使用 [NP管理器]
+- [MT管理器](https://mt2.cn/) - 开发者的文件管理器，支持apk文件编辑/签名等众多专业功能。内部收费
+
+- [NP管理器](http://normalplayer.top/) 免费版开发者的文件管理器，近似MT管理器
 
 - [Canta](https://samolego.github.io/Canta/) - [Github](https://github.com/samolego/Canta) - 卸载当前用户系统应用，可还原，需shizuku
 
