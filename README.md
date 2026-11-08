@@ -5,7 +5,7 @@
 ## ADB
 - [ADB工具包下载](https://gitee.com/lhj1618/GGKD/releases/download/releases/adb.zip)
 
-- [adb常见授权命令与说明](./) 
+- [adb常见授权命令与说明](./adb/go.md) 
 
 
 ## Shizuku
