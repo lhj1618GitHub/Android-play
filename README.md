@@ -31,7 +31,7 @@
 
 - [MT管理器](https://mt2.cn/)
 
-- Canta - [Github]() - 卸载当前用户系统应用，可还原，需shizuku
+- [Canta](https://samolego.github.io/Canta/) - [Github](https://github.com/samolego/Canta) - 卸载当前用户系统应用，可还原，需shizuku
 
 
 
