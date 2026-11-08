@@ -16,7 +16,8 @@
 ## Root
 - [KernelSU官网](https://kernelsu.org/zh_CN/) - [Github](https://github.com/tiann/KernelSU) - 权限/模块管理器，支持临时root和永久root
 
-- [Magisk面具](https://magiskcn.com/) - [Github](https://github.com/topjohnwu/Magisk) - 权限/模块管理器，适合低于Android17设备的永久root管理
+- [Magisk面具](https://magiskcn.com/) - [Github](https://github.com/topjohnwu/Magisk)
+ - 权限/模块管理器，适合低于Android17设备的永久root管理
 
 - Ghostlock - [Github](https://github.com/YuKongA/ghostlock-app) - 利用攻击漏洞的方式获取临时root，需Shizuku，免解bl锁，免PC，重启失效
 
@@ -28,7 +29,7 @@
 ## 其它工具推荐
 - 爱玩机工具箱 - [版本1](https://aiwanjitool.cn/) - [版本2](https://doc.byyoung.top/)
 
-- [MT管理器](https://mt2.cn/)
+- [MT管理器](https://mt2.cn/) - 开发者的文件管理器，支持apk文件编辑/签名等众多专业功能。内部收费，免费建议使用 [NP管理器]
 
 - [Canta](https://samolego.github.io/Canta/) - [Github](https://github.com/samolego/Canta) - 卸载当前用户系统应用，可还原，需shizuku
 
