@@ -34,9 +34,7 @@
 - [NP管理器](http://normalplayer.top/) 免费版开发者的文件管理器，近似MT管理器
 
 - [Canta](https://samolego.github.io/Canta/) - [Github](https://github.com/samolego/Canta) - 卸载当前用户系统应用，可还原，需shizuku。
-卸载小米[智能服务]会延长系统应用启动时间，直接删除下面目录内所有文件
-`/storage/emulated/0/Android/data/com.miui.systemAdSolution/files`
-然后新建空白文件 `miad` 就可以无广告了
+    - 卸载小米[智能服务]会延长系统应用启动时间，直接删除这个目录内所有文件`/storage/emulated/0/Android/data/com.miui.systemAdSolution/files` ，然后新建空白文件 `miad` 就可以无广告了
 
 - [NPatch](https://github.com/7723mod/NPatch) 免root用户的模块管理
 
