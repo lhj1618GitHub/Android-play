@@ -41,6 +41,8 @@
 ---
 
 ## 日常APP
+- [GKD](https://gkd.li/guide/) - [Github]() - [我的仓库GGKD](https://github.com/lhj1618GitHub/GGKD) Android端自用定义/订阅规则的方式模拟点击/长按/滑动/返回键等方式操控手机。常用于跳过APP广告/自动化流程操控。支持无障碍/adb特权/无线调试/shizuku/root模式
+
 - githup - [Github](https://github.com/Buwrt/githup) 小巧的第三方Github客户端，使用token登陆，内置仓库单文件下载/编辑/上传/代理加速/翻译等功能
 
 - GiteePro - [Github](https://github.com/qfmod/GiteePro) 小巧的第三方Gitee仓库文件简易管理器，使用token登陆，支持单仓库文件的下载/编辑/删除 操作
