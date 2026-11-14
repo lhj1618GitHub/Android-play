@@ -8,8 +8,9 @@
 
 ## Shizuku
 - [Shizuku官网](https://shizuku.rikka.app/) - [Github](https://github.com/RikkaApps/Shizuku/releases) - 资源占用最小，匹配最快速，无额外功能。在Android17应用列表获取失效导致不能在面板取消相关权限，但不影响基本功能
-- thedjchi版 - [Github](https://github.com/thedjchi/Shizuku/releases) - 可全面替换官版，额外支持部分启动时的附属功能，强化后台保活与重启
-- [lingyu版](https://lingyu-1qj.pages.dev/Shizuku)  - 可全面替换官版，修复17+应用列表获取，额外支持联网管理/常见工具快捷激活/墓碑模式开关 等，强化后台保活
+- HSSkyBoy版 - [Github](https://github.com/HSSkyBoy/Shizuku) 适配17，可替换官版，增加无线自启动/保活
+- thedjchi版 - [Github](https://github.com/thedjchi/Shizuku/releases) - 适配17，可全面替换官版，额外支持部分启动时的附属功能，强化后台保活与重启
+- [lingyu版](https://lingyu-1qj.pages.dev/Shizuku)  适配17，可替换官版，额外支持联网管理/常见工具快捷激活/墓碑模式开关 等，强化后台保活
 
 ## Root
 - [KernelSU官网](https://kernelsu.org/zh_CN/) - [Github](https://github.com/tiann/KernelSU) - 权限/模块管理器，支持临时root和永久root
