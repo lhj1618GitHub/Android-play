@@ -44,7 +44,7 @@
 
 其它APP
 - githup - [Github](https://github.com/Buwrt/githup) 小巧的第三方Github客户端，使用token登陆。内置仓库单文件下载/代理加速/翻译等功能
-- [Gitee Pro]() 小巧的第三方Gitee仓库文件简易管理器，使用token登陆，支持单仓库文件的下载/编辑/删除 操作
+- GiteePro - [Github](https://github.com/qfmod/GiteePro) 小巧的第三方Gitee仓库文件简易管理器，使用token登陆，支持单仓库文件的下载/编辑/删除 操作
 - [畅听FM](https://docs.qq.com/doc/DUnFlRWlhYVNreVhN) Android端在线听广播节目的音频播放器
 - [我的听书](https://gitee.com/lyndonlv/tingshu) Android端在线听小说，已停更
 - MBox - [Github](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile) Android端自定义采集源的 视频/电视/直播 在线播放器
