@@ -53,7 +53,7 @@
 
 - MBox - [Github](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile) Android端自定义采集源的 视频/电视/直播 在线播放器
 
-- [Legado](https://github.com/LegadoTeam/legado)  - 中文名-阅读 是一款免费的 Android 平台开源小说阅读器。支持自定义/订阅书源(含音/视频/漫画)，界面自定义程度高，是看网络小说的神器，还额外支持音频、视频和漫画
+- Legado/阅读 - [Github](https://github.com/LegadoTeam/legado) 是一款免费的 Android 平台开源小说阅读器。支持自定义/订阅书源(含音/视频/漫画)，界面自定义程度高，是看网络小说的神器，还额外支持音频、视频和漫画
 
 - [AppShare](https://app.sharess.cn/download) 目前残存资源较多的第三方应用商店，由开发者/机友分享正版Android端软件/ROM
 
