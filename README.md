@@ -44,7 +44,7 @@
 
 - [LSPosed](https://github.com/LSPosed/LSPosed) root用户的模块管理
 
-- 应用包安装器 - 需shizuku - [Github](https://github.com/vvb2060/PackageInstaller) 小而美的Android端apk安装器，可设为默认
+- 应用包安装器 - [Github](https://github.com/vvb2060/PackageInstaller) 需shizuku，小而美的Android端apk安装器，可设为默认
 
 - installerX - [Github](https://github.com/iamr0s/InstallerX) 简洁美观的应用包安装器，可设为默认。支持shizuku/dhizuku/root模式，已停更。[社区版](https://github.com/wxxsfxyzm/InstallerX-Revived) 更美观的界面，更细致强化的功能管理
 
