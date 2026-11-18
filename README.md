@@ -25,7 +25,7 @@
 - 1.[小米/OPPO/VIVO](https://rom.oppo.help/)
 
 
-## 其它工具推荐
+## 依赖特殊权限的APP
 
 - Dhizuku - [Github](https://github.com/iamr0s/Dhizuku) 获取并管理设备管理员权限，支持通过shizuku/adb激活，v2.13.0开始激活前无须移除账户
 
@@ -44,9 +44,13 @@
 
 - [LSPosed](https://github.com/LSPosed/LSPosed) root用户的模块管理
 
+- 应用包安装器 - 需shizuku - [Github](https://github.com/vvb2060/PackageInstaller) 小而美的Android端apk安装器，可设为默认
+
+- installerX - [Github](https://github.com/iamr0s/InstallerX) 简洁美观的应用包安装器，可设为默认。支持shizuku/dhizuku/root模式，已停更。[社区版](https://github.com/wxxsfxyzm/InstallerX-Revived) 更美观的界面，更细致强化的功能管理
+
 ---
 
-## 日常APP
+## 其它APP
 
 - [GKD](https://gkd.li/guide/) - [Github](https://github.com/gkd-kit/gkd) - [我的仓库GGKD](https://github.com/lhj1618GitHub/GGKD) Android端用自定义/订阅规则的方式模拟点击/长按/滑动/返回键等方式操控手机，常用于跳过APP广告/自动化流程操控，支持无障碍/adb特权/无线调试/shizuku/root
 
@@ -65,10 +69,6 @@
 - Legado/阅读 - [Github](https://github.com/LegadoTeam/legado) 是一款免费的 Android 平台开源小说阅读器。支持自定义/订阅书源(含音/视频/漫画)，界面自定义程度高，是看网络小说的神器，还额外支持音频、视频和漫画
 
 - [AppShare](https://app.sharess.cn/download) 目前残存资源较多的第三方应用商店，由开发者/机友分享正版Android端软件/ROM
-
-- 应用包安装器 - 需shizuku - [Github](https://github.com/vvb2060/PackageInstaller) 小而美的Android端apk安装器，可设为默认
-
-- installerX - [Github](https://github.com/iamr0s/InstallerX) 简洁美观的应用包安装器，可设为默认。支持shizuku/dhizuku/root模式，已停更。[社区版](https://github.com/wxxsfxyzm/InstallerX-Revived) 更美观的界面，更细致强化的功能管理
 
 ---
 
