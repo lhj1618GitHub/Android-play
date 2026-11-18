@@ -26,6 +26,11 @@
 
 
 ## 其它工具推荐
+
+- Dhizuku - [Github](https://github.com/iamr0s/Dhizuku) 获取并管理设备管理员权限，支持通过shizuku/adb激活，v2.13.0开始激活前无须移除账户
+
+- Hail - [Github](https://github.com/aistra0528/Hail) 雹，可冻结/停用/隐藏应用的启动器，支持分标签管理应用。需shizuku/dhizuku/adb/root
+
 - 爱玩机工具箱 - [版本1](https://aiwanjitool.cn/) - [版本2](https://doc.byyoung.top/)
 
 - [MT管理器](https://mt2.cn/) - 开发者的文件管理器，支持apk文件编辑/签名等众多专业功能。内部收费
@@ -54,9 +59,15 @@
 
 - MBox - [Github](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile) Android端自定义采集源的 视频/电视/直播 在线播放器
 
+- TVbox
+
 - Legado/阅读 - [Github](https://github.com/LegadoTeam/legado) 是一款免费的 Android 平台开源小说阅读器。支持自定义/订阅书源(含音/视频/漫画)，界面自定义程度高，是看网络小说的神器，还额外支持音频、视频和漫画
 
 - [AppShare](https://app.sharess.cn/download) 目前残存资源较多的第三方应用商店，由开发者/机友分享正版Android端软件/ROM
+
+- 应用包安装器 - 需shizuku - [Github](https://github.com/vvb2060/PackageInstaller) 小而美的安装器，可设为默认
+
+- installerX - [Github](https://github.com/iamr0s/InstallerX) 简洁美观的应用包安装器，可设为默认。支持shizuku/dhizuku/root模式，已停更。[社区版](https://github.com/wxxsfxyzm/InstallerX-Revived) 更美观的界面，细致的功能管理
 
 ---
 
