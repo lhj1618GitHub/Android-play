@@ -73,3 +73,6 @@
 ---
 
 - [其它小工具](https://lhj1618github.github.io/html)
+
+- 开源apk签名工具
+    - [篱签](https://github.com/jasper2580/liqian)
