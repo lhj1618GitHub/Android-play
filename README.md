@@ -63,6 +63,8 @@
 
 - [我的听书](https://gitee.com/lyndonlv/tingshu) Android端在线听小说，已停更
 
+- 影视星球 -[Github](https://github.com/303562915/tv) 精简适用的tvbox源播放器，内置多源
+
 - MBox - [Github](https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile) 面向手机的TVbox修改版，自定义源的 视频/电视/直播 在线播放器
 
 - TVbox - [Github](https://github.com/ZxxXinI/tvbox) 小而美的在线视频播放器，横屏，内置源。支持电视端/手机端
