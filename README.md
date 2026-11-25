@@ -40,7 +40,7 @@
 
 - [Canta](https://samolego.github.io/Canta/) - [Github](https://github.com/samolego/Canta) - 卸载当前用户系统应用，可还原，需shizuku。
     - 卸载小米[智能服务]会延长系统应用启动时间，直接删除这个目录内所有文件`/storage/emulated/0/Android/data/com.miui.systemAdSolution/files` ，然后新建空白文件 `miad` 就可以无广告了
-
+- Debloat-HyperOS-App - [Github](https://github.com/AnasAbdullh/Debloat-HyperOS-App) 小米澎湃专用，安全卸载应用(内置可安全卸载列表)，可还原，需要Shizuku
 - [NPatch](https://github.com/7723mod/NPatch) 免root用户的模块管理
 
 - [LSPosed](https://github.com/LSPosed/LSPosed) root用户的模块管理
